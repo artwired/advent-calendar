@@ -157,3 +157,9 @@ p.box-description {
   background-color: #d4fe81;
   border: 1px solid darkred;
 }
+@media screen and (max-width: 480px) {
+  .calendar-container {
+    grid-template-columns: repeat(3, 1fr); /* 3 containers per row */
+    gap: 10px; /* Adjust the gap as needed */
+  }
+}

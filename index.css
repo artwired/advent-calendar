@@ -159,7 +159,7 @@ p.box-description {
 }
 @media screen and (max-width: 480px) {
   .calendar-container {
-    grid-template-columns: repeat(3, 1fr); /* 3 containers per row */
-    gap: 10px; /* Adjust the gap as needed */
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
   }
 }

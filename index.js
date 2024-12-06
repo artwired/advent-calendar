@@ -225,9 +225,9 @@ for (let i = 1; i <= 24; i++) {
       case 22:
         renderGif(
           box,
-          `<a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZ4a2doMWJ0MGc4dXhvMGZhN2p5d3J1OGl4YXc5MG51M2xkbG1iMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZIKF9Pyxh6z72/giphy.gif">
+          `<a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdwMnAyZXEzcnFjM25kdnUwMTU3aWpnZnJ6b2Z6YnQyZHduaHV6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KtrhyNGwNCSYM4pVRq/giphy.gif">
         
-        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZ4a2doMWJ0MGc4dXhvMGZhN2p5d3J1OGl4YXc5MG51M2xkbG1iMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZIKF9Pyxh6z72/giphy.gif" alt="Ryan Reynolds rubbing a Christmas snow globe on his face in the movie, Just Friends" />
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdwMnAyZXEzcnFjM25kdnUwMTU3aWpnZnJ6b2Z6YnQyZHduaHV6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KtrhyNGwNCSYM4pVRq/giphy.gif" alt="Dog with Christmas lights glowing under his fur" />
         
         </a>
         `
@@ -247,9 +247,9 @@ for (let i = 1; i <= 24; i++) {
       case 24:
         renderGif(
           box,
-          `<a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHpydXkyOXBkOXl0cWQxZ3pibGJncjc2YmU0aXNjd3dkdHB5NTB2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KtrhyNGwNCSYM4pVRq/giphy.gif">
+          `<a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Rqcm8ycXV0MHBtbmJkd3M1d2huMGJsaGM3aWl5ZWQ5ZHg5N21qcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6wrrn32NwP5EgpTG/giphy.gif">
         
-        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHpydXkyOXBkOXl0cWQxZ3pibGJncjc2YmU0aXNjd3dkdHB5NTB2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KtrhyNGwNCSYM4pVRq/giphy.gif" alt="Dog wearing Christmas lights and they're glowing under his fur" />
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Rqcm8ycXV0MHBtbmJkd3M1d2huMGJsaGM3aWl5ZWQ5ZHg5N21qcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6wrrn32NwP5EgpTG/giphy.gif" alt="Claymation Santa and his reindear flying in his sleigh while Santa waves" />
         
         </a>
         `
@@ -468,9 +468,9 @@ for (let i = 1; i <= 24; i++) {
           break;
         case 22:
           swapContent;
-          gifHTML = `<a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZ4a2doMWJ0MGc4dXhvMGZhN2p5d3J1OGl4YXc5MG51M2xkbG1iMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZIKF9Pyxh6z72/giphy.gif" target="_blank">
+          gifHTML = `<a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdwMnAyZXEzcnFjM25kdnUwMTU3aWpnZnJ6b2Z6YnQyZHduaHV6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KtrhyNGwNCSYM4pVRq/giphy.gif" target="_blank">
         
-        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZ4a2doMWJ0MGc4dXhvMGZhN2p5d3J1OGl4YXc5MG51M2xkbG1iMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZIKF9Pyxh6z72/giphy.gif" alt="Ryan Reynolds rubbing a Christmas snow globe on his face in the movie, Just Friends" />
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdwMnAyZXEzcnFjM25kdnUwMTU3aWpnZnJ6b2Z6YnQyZHduaHV6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KtrhyNGwNCSYM4pVRq/giphy.gif" alt="Dog with Christmas lights glowing under his fur" />
         
         </a>
         `;
@@ -488,12 +488,12 @@ for (let i = 1; i <= 24; i++) {
           break;
         case 24:
           swapContent;
-          gifHTML = `<a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHpydXkyOXBkOXl0cWQxZ3pibGJncjc2YmU0aXNjd3dkdHB5NTB2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KtrhyNGwNCSYM4pVRq/giphy.gif" target="_blank">
+          gifHTML = `<a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Rqcm8ycXV0MHBtbmJkd3M1d2huMGJsaGM3aWl5ZWQ5ZHg5N21qcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6wrrn32NwP5EgpTG/giphy.gif" target="_blank">
         
-        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHpydXkyOXBkOXl0cWQxZ3pibGJncjc2YmU0aXNjd3dkdHB5NTB2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KtrhyNGwNCSYM4pVRq/giphy.gif" alt="Dog wearing Christmas lights and they're glowing under his fur" />
-        
-        </a>
-        `;
+          <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Rqcm8ycXV0MHBtbmJkd3M1d2huMGJsaGM3aWl5ZWQ5ZHg5N21qcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6wrrn32NwP5EgpTG/giphy.gif" alt="Claymation Santa and his reindear flying in his sleigh while Santa waves" />
+          
+          </a>
+          `;
           renderGif(box, gifHTML);
           break;
       }

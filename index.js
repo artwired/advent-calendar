@@ -90,7 +90,12 @@ for (let i = 1; i <= 24; i++) {
       case 9:
         renderGif(
           box,
-          `<a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDQ0c2J4YjBvbGM0ZDdwN2VmbmJ4dGp5ajIzMjV5ZmNicHhyMm81NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pkj1ubliTW6IfH1N53/giphy-downsized-large.gif"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDQ0c2J4YjBvbGM0ZDdwN2VmbmJ4dGp5ajIzMjV5ZmNicHhyMm81NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pkj1ubliTW6IfH1N53/giphy-downsized-large.gif" alt="Chandler and Joey from Friends wearing costumes sitting beside each other on a couch. Candler is dressed as Santa Clause and Joey is dressed as Superman. Chandler says to Joey, may favourite part was when superman flew all the jews out of egypt."></a>`
+          `<a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTNpZjNteWpwYmNycnFvb2M0eGo1enQ4ZTVodWRpNXNnbTd2djMzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3orieO8y9F44T04mYw/giphy.gif">
+        
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTNpZjNteWpwYmNycnFvb2M0eGo1enQ4ZTVodWRpNXNnbTd2djMzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3orieO8y9F44T04mYw/giphy.gif" alt="Homer and Bart from the Simpsons. They are standing beside what is obviously a pony that's wrapped up as a present. Homer says I just know his name is Clip Clop and he loves sugar." />
+        
+        </a>
+        `
         );
         break;
       case 10:
@@ -340,9 +345,9 @@ for (let i = 1; i <= 24; i++) {
           break;
         case 9:
           swapContent;
-          gifHTML = `<a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDQ0c2J4YjBvbGM0ZDdwN2VmbmJ4dGp5ajIzMjV5ZmNicHhyMm81NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pkj1ubliTW6IfH1N53/giphy-downsized-large.gif" target="_blank">
+          gifHTML = `<a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTNpZjNteWpwYmNycnFvb2M0eGo1enQ4ZTVodWRpNXNnbTd2djMzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3orieO8y9F44T04mYw/giphy.gif" target="_blank">
         
-        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDQ0c2J4YjBvbGM0ZDdwN2VmbmJ4dGp5ajIzMjV5ZmNicHhyMm81NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Pkj1ubliTW6IfH1N53/giphy-downsized-large.gif" alt="Chandler and Joey from Friends wearing costumes sitting beside each other on a couch. Candler is dressed as Santa Clause and Joey is dressed as Superman. Chandler says to Joey, may favourite part was when superman flew all the jews out of egypt." />
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTNpZjNteWpwYmNycnFvb2M0eGo1enQ4ZTVodWRpNXNnbTd2djMzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3orieO8y9F44T04mYw/giphy.gif" alt="Homer and Bart from the Simpsons. They are standing beside what is obviously a pony that's wrapped up as a present. Homer says I just know his name is Clip Clop and he loves sugar." />
         
         </a>
         `;

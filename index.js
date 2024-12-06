@@ -159,9 +159,9 @@ for (let i = 1; i <= 24; i++) {
       case 16:
         renderGif(
           box,
-          `<a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmFxZzBrYW9sNDNoaTd0d3o3aWIzenpmNml4YTZjcmg1cWJjczkybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0ErObhpbmVN1ApLG/giphy.gif">
+          `<a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTMwY3B6Y3ZmNnJlZ21rN3phcXBhdW9yamFteXdwMHA5cm9ieXlwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l29c52uHWfHIWPo2ap/giphy-downsized-large.gif">
         
-        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmFxZzBrYW9sNDNoaTd0d3o3aWIzenpmNml4YTZjcmg1cWJjczkybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0ErObhpbmVN1ApLG/giphy.gif" alt="Arnold Schwarzenegger, in Jingle All the Way when he's in a sweat shop and ends up punching a giant shirtless Santa wearing suspenders and santa pants in the face." />
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTMwY3B6Y3ZmNnJlZ21rN3phcXBhdW9yamFteXdwMHA5cm9ieXlwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l29c52uHWfHIWPo2ap/giphy-downsized-large.gif" alt="Two cats wearing Christmas outfits. One of the cats is wearing jingle bells on his collar and the other cat is swatting at them." />
         
         </a>
         `
@@ -407,12 +407,12 @@ for (let i = 1; i <= 24; i++) {
           break;
         case 16:
           swapContent;
-          gifHTML = `<a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmFxZzBrYW9sNDNoaTd0d3o3aWIzenpmNml4YTZjcmg1cWJjczkybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0ErObhpbmVN1ApLG/giphy.gif" target="_blank">
+          gifHTML = `<a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTMwY3B6Y3ZmNnJlZ21rN3phcXBhdW9yamFteXdwMHA5cm9ieXlwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l29c52uHWfHIWPo2ap/giphy-downsized-large.gif" target="_blank">
         
-        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmFxZzBrYW9sNDNoaTd0d3o3aWIzenpmNml4YTZjcmg1cWJjczkybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0ErObhpbmVN1ApLG/giphy.gif" alt="Arnold Schwarzenegger, in Jingle All the Way when he's in a sweat shop and ends up punching a giant shirtless Santa wearing suspenders and santa pants in the face." />
-        
-        </a>
-        `;
+          <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTMwY3B6Y3ZmNnJlZ21rN3phcXBhdW9yamFteXdwMHA5cm9ieXlwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l29c52uHWfHIWPo2ap/giphy-downsized-large.gif" alt="Two cats wearing Christmas outfits. One of the cats is wearing jingle bells on his collar and the other cat is swatting at them." />
+          
+          </a>
+          `;
           renderGif(box, gifHTML);
           break;
         case 17:
